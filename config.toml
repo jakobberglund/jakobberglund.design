@@ -1,4 +1,4 @@
-baseURL = "http://jakobberglund.design/"
+baseURL = "https://jakobberglund.design/"
 languageCode = "en-us"
 title = "Jakob Berglund"
 theme = "ananke"
