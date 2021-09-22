@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
@@ -88,3 +89,6 @@ sw.*
 
 # Vim swap files
 *.swp
+=======
+.DS_Store
+>>>>>>> 799c164aacd2957aaec058bb8c1692badd6e3632
