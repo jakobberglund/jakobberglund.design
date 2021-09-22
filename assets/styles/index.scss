@@ -1,0 +1,23 @@
+:root {
+  --jbd--color--background: rgb(17 10 26);
+  --jbd--color--text: rgb(193 193 193);
+  --jbd--color--link: rgb(255 255 255);
+  --jbd--typography--font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  background: var(--jbd--color--background);
+  color: var(--jbd--color--text);
+  font-family: var(--jbd--typography--font-family);
+  height: 100vh;
+}
+
+a {
+  color: var(--jbd--color--link);
+}
