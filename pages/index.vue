@@ -3,7 +3,8 @@
     <div class="inner">
       <h1>
         I’m Jakob Berglund, a freelancing front-end lead and web developer
-        specializing in design systems.
+        specializing in design systems, architecture, accessibility and
+        processes.
       </h1>
       <p>
         <a href="mailto:contact@jakobberglund.com">Contact me</a> for inquiries
